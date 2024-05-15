@@ -5,3 +5,4 @@ This case study analyizes data provided by Starbucks that simulates their custom
 
 ## Data Source
 https://www.kaggle.com/datasets/ihormuliar/starbucks-customer-data
+![image](https://github.com/coolerlee90/Starbucks-Customer-Behaviors-and-Promotion-Distribution-Strategy/assets/152518453/f2cec2b0-95dc-4290-8d74-3ab5df589ef6)
